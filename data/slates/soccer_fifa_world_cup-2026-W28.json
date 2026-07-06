@@ -1,0 +1,268 @@
+{
+  "pool_id": "soccer_fifa_world_cup-2026-W28",
+  "sport_key": "soccer_fifa_world_cup",
+  "sport_label": "World Cup",
+  "score_type": "soccer",
+  "title": "World Cup Weekly Pool — Manual Fallback Slate",
+  "created_at": "2026-07-06T17:49:06.140Z",
+  "start_at": "2026-07-06T17:49:06.139Z",
+  "end_at": "2026-07-13T03:59:59.999Z",
+  "buy_in": 20,
+  "admin_fee_percent": 5,
+  "payout_split": "70/20/10",
+  "locked_at": null,
+  "share_url": "http://localhost:8080/pool.html?sport=soccer_fifa_world_cup",
+  "picks": [
+    {
+      "pick_id": "ML-manual-soccer_fifa_world_cup-2026-W28-1-0",
+      "market": "ML",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-1",
+      "event_label": "Team A vs Team B",
+      "datetime": "2026-07-06T23:00:00.000Z",
+      "home_team": "Team B",
+      "away_team": "Team A",
+      "bookmaker": "manual",
+      "options": [
+        {
+          "key": "Team A",
+          "label": "Team A",
+          "odds": null
+        },
+        {
+          "key": "Draw",
+          "label": "Draw",
+          "odds": null
+        },
+        {
+          "key": "Team B",
+          "label": "Team B",
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "ML-manual-soccer_fifa_world_cup-2026-W28-2-1",
+      "market": "ML",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-2",
+      "event_label": "Team C vs Team D",
+      "datetime": "2026-07-07T00:00:00.000Z",
+      "home_team": "Team D",
+      "away_team": "Team C",
+      "bookmaker": "manual",
+      "options": [
+        {
+          "key": "Team C",
+          "label": "Team C",
+          "odds": null
+        },
+        {
+          "key": "Draw",
+          "label": "Draw",
+          "odds": null
+        },
+        {
+          "key": "Team D",
+          "label": "Team D",
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "ML-manual-soccer_fifa_world_cup-2026-W28-3-2",
+      "market": "ML",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-3",
+      "event_label": "Team E vs Team F",
+      "datetime": "2026-07-07T01:00:00.000Z",
+      "home_team": "Team F",
+      "away_team": "Team E",
+      "bookmaker": "manual",
+      "options": [
+        {
+          "key": "Team E",
+          "label": "Team E",
+          "odds": null
+        },
+        {
+          "key": "Draw",
+          "label": "Draw",
+          "odds": null
+        },
+        {
+          "key": "Team F",
+          "label": "Team F",
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "SP-manual-soccer_fifa_world_cup-2026-W28-4-3",
+      "market": "SP",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-4",
+      "event_label": "Team G vs Team H",
+      "datetime": "2026-07-07T23:00:00.000Z",
+      "home_team": "Team H",
+      "away_team": "Team G",
+      "bookmaker": "manual",
+      "options": [
+        {
+          "key": "Team G",
+          "label": "Team G +1.5",
+          "line": 1.5,
+          "odds": null
+        },
+        {
+          "key": "Team H",
+          "label": "Team H -1.5",
+          "line": -1.5,
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "SP-manual-soccer_fifa_world_cup-2026-W28-5-4",
+      "market": "SP",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-5",
+      "event_label": "Team I vs Team J",
+      "datetime": "2026-07-08T00:00:00.000Z",
+      "home_team": "Team J",
+      "away_team": "Team I",
+      "bookmaker": "manual",
+      "options": [
+        {
+          "key": "Team I",
+          "label": "Team I +1.5",
+          "line": 1.5,
+          "odds": null
+        },
+        {
+          "key": "Team J",
+          "label": "Team J -1.5",
+          "line": -1.5,
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "SP-manual-soccer_fifa_world_cup-2026-W28-6-5",
+      "market": "SP",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-6",
+      "event_label": "Team K vs Team L",
+      "datetime": "2026-07-08T01:00:00.000Z",
+      "home_team": "Team L",
+      "away_team": "Team K",
+      "bookmaker": "manual",
+      "options": [
+        {
+          "key": "Team K",
+          "label": "Team K +1.5",
+          "line": 1.5,
+          "odds": null
+        },
+        {
+          "key": "Team L",
+          "label": "Team L -1.5",
+          "line": -1.5,
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "TOT-manual-soccer_fifa_world_cup-2026-W28-7-6",
+      "market": "TOT",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-7",
+      "event_label": "Team M vs Team N",
+      "datetime": "2026-07-08T23:00:00.000Z",
+      "home_team": "Team N",
+      "away_team": "Team M",
+      "bookmaker": "manual",
+      "line": 2.5,
+      "options": [
+        {
+          "key": "over",
+          "label": "Over 2.5",
+          "line": 2.5,
+          "odds": null
+        },
+        {
+          "key": "under",
+          "label": "Under 2.5",
+          "line": 2.5,
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "TOT-manual-soccer_fifa_world_cup-2026-W28-8-7",
+      "market": "TOT",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-8",
+      "event_label": "Team O vs Team P",
+      "datetime": "2026-07-09T00:00:00.000Z",
+      "home_team": "Team P",
+      "away_team": "Team O",
+      "bookmaker": "manual",
+      "line": 2.5,
+      "options": [
+        {
+          "key": "over",
+          "label": "Over 2.5",
+          "line": 2.5,
+          "odds": null
+        },
+        {
+          "key": "under",
+          "label": "Under 2.5",
+          "line": 2.5,
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    },
+    {
+      "pick_id": "TOT-manual-soccer_fifa_world_cup-2026-W28-9-8",
+      "market": "TOT",
+      "event_id": "manual-soccer_fifa_world_cup-2026-W28-9",
+      "event_label": "Team Q vs Team R",
+      "datetime": "2026-07-09T01:00:00.000Z",
+      "home_team": "Team R",
+      "away_team": "Team Q",
+      "bookmaker": "manual",
+      "line": 2.5,
+      "options": [
+        {
+          "key": "over",
+          "label": "Over 2.5",
+          "line": 2.5,
+          "odds": null
+        },
+        {
+          "key": "under",
+          "label": "Under 2.5",
+          "line": 2.5,
+          "odds": null
+        }
+      ],
+      "fallback": true,
+      "manual": true
+    }
+  ],
+  "meta": {
+    "provider": "manual-fallback",
+    "fallback_count": 9,
+    "note": "Manual placeholder slate created because API regeneration was unavailable."
+  }
+}
